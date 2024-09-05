@@ -10,7 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{0B682AE9-BB2D-43A1-A8DE-32D8DBFCE05D}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
-		SqlRequest.sql = SqlRequest.sql
+		SqlQuery.sql = SqlQuery.sql
 	EndProjectSection
 EndProject
 Global
